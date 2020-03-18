@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="82b324f8-d3b5-4678-b397-82cfe0e3d303" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/paragraphs.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -20,6 +18,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="SOFT" />
   </component>
   <component name="ProjectId" id="1YwPY8b3H5nm3MRT7cBitCaqQoQ" />
   <component name="ProjectViewState">
@@ -135,22 +134,22 @@
       <screen x="0" y="23" width="1792" height="1033" />
     </state>
     <state x="761" y="440" key="Github.ShareDialog/0.23.1792.1033@0.23.1792.1033" timestamp="1584478540768" />
-    <state width="1792" height="296" key="GridCell.Tab.0.bottom" timestamp="1584479734273">
+    <state width="1792" height="296" key="GridCell.Tab.0.bottom" timestamp="1584516167038">
       <screen x="0" y="23" width="1792" height="1033" />
     </state>
-    <state width="1792" height="296" key="GridCell.Tab.0.bottom/0.23.1792.1033@0.23.1792.1033" timestamp="1584479734273" />
-    <state width="1792" height="296" key="GridCell.Tab.0.center" timestamp="1584479734272">
+    <state width="1792" height="296" key="GridCell.Tab.0.bottom/0.23.1792.1033@0.23.1792.1033" timestamp="1584516167038" />
+    <state width="1792" height="296" key="GridCell.Tab.0.center" timestamp="1584516167037">
       <screen x="0" y="23" width="1792" height="1033" />
     </state>
-    <state width="1792" height="296" key="GridCell.Tab.0.center/0.23.1792.1033@0.23.1792.1033" timestamp="1584479734272" />
-    <state width="1792" height="296" key="GridCell.Tab.0.left" timestamp="1584479734272">
+    <state width="1792" height="296" key="GridCell.Tab.0.center/0.23.1792.1033@0.23.1792.1033" timestamp="1584516167037" />
+    <state width="1792" height="296" key="GridCell.Tab.0.left" timestamp="1584516167037">
       <screen x="0" y="23" width="1792" height="1033" />
     </state>
-    <state width="1792" height="296" key="GridCell.Tab.0.left/0.23.1792.1033@0.23.1792.1033" timestamp="1584479734272" />
-    <state width="1792" height="296" key="GridCell.Tab.0.right" timestamp="1584479734273">
+    <state width="1792" height="296" key="GridCell.Tab.0.left/0.23.1792.1033@0.23.1792.1033" timestamp="1584516167037" />
+    <state width="1792" height="296" key="GridCell.Tab.0.right" timestamp="1584516167037">
       <screen x="0" y="23" width="1792" height="1033" />
     </state>
-    <state width="1792" height="296" key="GridCell.Tab.0.right/0.23.1792.1033@0.23.1792.1033" timestamp="1584479734273" />
+    <state width="1792" height="296" key="GridCell.Tab.0.right/0.23.1792.1033@0.23.1792.1033" timestamp="1584516167037" />
     <state x="397" y="178" key="SettingsEditor" timestamp="1584366063186">
       <screen x="0" y="23" width="1792" height="1033" />
     </state>
@@ -159,6 +158,10 @@
       <screen x="0" y="23" width="1792" height="1033" />
     </state>
     <state width="500" height="445" key="SwitcherDM/0.23.1792.1033@0.23.1792.1033" timestamp="1583854269967" />
+    <state x="496" y="279" key="Vcs.Push.Dialog.v2" timestamp="1584480307009">
+      <screen x="0" y="23" width="1792" height="1033" />
+    </state>
+    <state x="496" y="279" key="Vcs.Push.Dialog.v2/0.23.1792.1033@0.23.1792.1033" timestamp="1584480307009" />
     <state x="561" y="252" key="search.everywhere.popup" timestamp="1583852733156">
       <screen x="0" y="23" width="1792" height="1033" />
     </state>
